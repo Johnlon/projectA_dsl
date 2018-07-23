@@ -1,0 +1,3 @@
+#!/usr/bin/groovy
+@Library('jenkins_library') _
+dslJob()
